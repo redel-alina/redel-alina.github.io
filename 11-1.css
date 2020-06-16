@@ -1,0 +1,99 @@
+nav{
+    background: linear-gradient(-45deg, rgb(250, 246, 1), rgb(245, 121, 35));
+    font-style: italic;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 20px;
+}    
+.logo{
+    padding-top: 6rem;
+    background-image: url(xiaomi-mi.jpg);
+    height: 400px;
+    background-size: cover;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo-text{
+    font-style: italic;
+    font-size: 4.5rem;
+    text-align: center;
+}
+h1{
+    background: linear-gradient(145deg,rgba(235, 233, 116, 0.87) ,rgba(149, 240, 75, 0.945) );
+    margin: 45px;
+} 
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: justify;
+    margin-left: 20px;
+    font-size: 36px;
+}
+p{
+   font-family: 'PT Sans', sans-serif; 
+   font-style: italic;
+   text-align: justify;
+   margin-left: 20px;
+   font-size: 22px;
+}
+.container-fluid{
+    height: 900px;
+    
+}
+.row-2{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20));  
+}
+.row-3{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20)); 
+} 
+.rew-2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+   
+}
+.wow{
+    font-size: 24px;
+    font-style: italic;
+}
+.you{
+    margin-top: 85px;
+    margin-left: 25px;
+}
+.lop-4{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20)); 
+}
+.kill{
+     margin-top: 50px;
+}
+.poy-5{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20)); 
+}
+.yoy{
+    margin-top: 20px;
+}
+.kol-6{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20));
+}
+.row-4{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20));
+}
+.wer{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20));
+}
+.wor{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20));
+}
+.lok{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20));
+}
+.gol{
+    margin-top: 40px;
+}
+.tir{
+    background: linear-gradient(270deg,rgb(43, 255, 0) , rgb(250,246,1), rgb(100, 240, 20));
+   
+}
+.poi{
+     padding-left: 150px;
+     margin-top: 50px;
+     
+}   

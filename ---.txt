@@ -1,0 +1,12 @@
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
+
+font-family: 'Open Sans', sans-serif;
+
+
+
+
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap" rel="stylesheet">
+
+font-family: 'PT Sans', sans-serif;
+
+Xiaomi— китайська компанія, заснована Леєм Цзюнем у 2010 році.Перша зустріч засновників Xiaomi відбулася 14 січня 2010 року. Офіційною датою заснування корпорації вважається 6 квітня 2010 року. 16 серпня 2010 року Xiaomi офіційно запустила першу MIUI-прошивку, що базується на ОС Android.
